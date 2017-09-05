@@ -5,3 +5,4 @@ echo "Second Feature.";
 echo "First feature.";
 echo "First feature.";
 echo "Sub first feature";
+echo "error";
